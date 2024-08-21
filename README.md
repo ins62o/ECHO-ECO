@@ -59,16 +59,14 @@
 
 
 ### 📚 서비스 아키텍쳐
-![프론트엔드 아키텍쳐](https://github.com/user-attachments/assets/06064383-61ef-43e8-9d46-91bc32ee92fd)
-
+![프론트엔드 아키텍쳐](https://github.com/user-attachments/assets/13cc6ce6-98b6-4b6c-a837-aeea0f9d6afb)
 
 ### 🗂️ 기능 구조
-- 소셜 로그인 ( 카카오 , 네이버 , 구글 )
-- 동물 선택 & 설명
-- 쓰레기 치우기
-- 퀴즈 & 영상
-- 상점 ( 아이템 구매 )
-- 성장 완료 & 기프티콘
+![image](https://github.com/user-attachments/assets/11590723-221f-47f6-ae1d-6a57c96452b2)
+
+### 🗂️ 화면 구조
+![image](https://github.com/user-attachments/assets/4ee4c36b-5fa9-43ac-90f1-e1a9edcdc669)
+
 
 
 ### 🔢 기타 세부사항
